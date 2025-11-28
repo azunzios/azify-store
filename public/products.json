@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Akun Pikpak Premium 10TB",
+        "description": "Akun mypikpak.com cloudstorage yang sangat besar disewakan per hari. Anda bisa sewa untuk beberapa hari.",
+        "price": "Rp4.000",
+        "image": "/images/pikpak.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Jasa Download Link Torrent",
+        "description": "Convert torrent menjadi link direct download. Super cepat.",
+        "price": "Rp2.000 (25GB awal) + Rp1.000/10GB",
+        "image": "/images/torrent.webp"
+    },
+    {
+        "id": 3,
+        "title": "Private Comfy UI",
+        "description": "Generate konten apapun tanpa restriksi secara tak terbatas. Sewa per 2 jam.",
+        "price": "Rp16.000",
+        "image": "/images/comfy-ui.png"
+    },
+    {
+        "id": 4,
+        "title": "Private WAN 2.2 I2V/ T2V",
+        "description": "Environment siap pakai untuk generate video pakai WAN I2V atau Text2V. Sewa per 2 jam.",
+        "price": "Rp18.000",
+        "image": "/images/wan2.2.png"
+    },
+    {
+        "id": 5,
+        "title": "Viral Z-Image/ QWEN Image/ FLUX2.0",
+        "description": "Perangkat untuk generate konten image dengan kreasi kalian (I2V, T2V).",
+        "price": "Rp18.000",
+        "image": "/images/z-image.webp"
+    },
+    {
+        "id": 6,
+        "title": "Ubuntu Remote High Specs Desktop",
+        "description": "Remote desktop dengan high specification (RTX5090).",
+        "price": "Rp18.000",
+        "image": "/images/rtx-5090.webp"
+    },
+    {
+        "id": 7,
+        "title": "Buat 3D Models Private (Huanyuan 3D)",
+        "description": "Membuat 3D object berdasarkan gambar yang diinput di ComfyUI.",
+        "price": "Rp18.000",
+        "image": "/images/huanyuan.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Online Davinci Resolve/ Blender",
+        "description": "PC spek tinggi cocok untuk konten kreator/video kreator.",
+        "price": "Rp14.000",
+        "image": "/images/davinci-resolve.webp"
+    },
+    {
+        "id": 9,
+        "title": "Membuat Subtitle Indonesia (akurasi 97%) ",
+        "description": "Pakai model Whisper yang sudah di Training dengan data bahasa Indonesia. Sewa per 1 jam. Bisa dibuatkan subtitle berdasarkan video",
+        "price": "Rp2.000",
+        "image": "/images/subtitle.webp"
+    }
+]
