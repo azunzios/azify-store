@@ -61,12 +61,5 @@
         "description": "Pakai model Whisper yang sudah di Training dengan data bahasa Indonesia. Sewa per 1 jam. Bisa dibuatkan subtitle berdasarkan video",
         "price": "Rp2.000",
         "image": "/images/subtitle.webp"
-    },
-    {
-        "id": 10,
-        "title": "Chat Bot Qwen Ollama Private minim safety filter (abliterated)",
-        "description": "cocok  untuk yang penasaran karena pertanyaannya selalu tidak bisa dijawab oleh ChatGPT atau Chatbot komersil lain",
-        "price": "Rp16.000",
-        "image": "/images/ollama.jpg"
     }
 ]
